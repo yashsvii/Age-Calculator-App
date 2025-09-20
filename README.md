@@ -4,7 +4,7 @@ This is a simple web application that calculates your age based on your date of 
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](age-calculaor-app.netlify.app)
+👉 [Click here to view the live site](https://age-calculaor-app.netlify.app/)
 
 ## 🧰 Technologies Used
 
