@@ -37,6 +37,6 @@ This is a simple web application that calculates your age based on your date of 
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/yashsvii/Age-Calculator-App]
 cd your-repo-name
 ```
