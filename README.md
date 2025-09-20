@@ -24,7 +24,7 @@ This is a simple web application that calculates your age based on your date of 
 
 ## 📸 Screenshots
 
-![Screenshot of the app](./assets/screenshot.png)
+![Screenshot of the app](./design/desktop-preview.jpg)
 
 ## 💡 What I Learned
 
